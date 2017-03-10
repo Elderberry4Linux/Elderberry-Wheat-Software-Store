@@ -108,7 +108,7 @@
        <item>
         <widget class="QPushButton" name="pBtn_applications">
          <property name="text">
-          <string>Applicatins</string>
+          <string>Applications</string>
          </property>
         </widget>
        </item>
